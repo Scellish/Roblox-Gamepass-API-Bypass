@@ -9,3 +9,7 @@ This bypass is just a set amount of https requests which can be achieved with bu
 
 ## Fix 
 By the time I am uploading this the bypass will be patched this is jut a POC
+
+
+## How to test
+Open any HTTP Request sender I use BurpSuit Repeter and paste in the the code and then send it any amount of time you want and your should get a 302 error if this is the case you did it right!
